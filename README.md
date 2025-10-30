@@ -47,6 +47,8 @@ Pin 14 to Arduino pin 2
 
 Step 4: FINAL DATA OF PROJECT 
 here is the final data of project it gives A final code and data just watch it and do your project..the .rar file also has the proteus semulation of project and all data of project. one thing keypad sometimes not work properly. and the simulation is perfect only dht11 not working in proteus it work on hardware. the problem behind this i dont no. i try all the possibility but it not work on proteus. project data
+https://drive.google.com/drive/folders/0B1MQ1ghECJalQTFRYzlIdjg5cDg?resourcekey=0-dUimkBo3Lx0vnzse8rtQxw
+
 
 
 
